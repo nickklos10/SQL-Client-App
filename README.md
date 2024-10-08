@@ -49,6 +49,17 @@ Both applications share the same underlying databases but serve distinct user ro
 - **Build Tools**: [Optional: Maven/Gradle if used]
 - **Version Control**: Git & GitHub
 
-## Repository Structure
+### Prerequisites
+
+- **Java Development Kit (JDK)**: Ensure JDK 8 or higher is installed.
+- **MySQL Server**: Install and configure MySQL Server.
+- **IDE (Optional)**: Use an Integrated Development Environment like Eclipse, IntelliJ IDEA, or NetBeans for easier project management.
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/SQL-Client-and-Accountant-App.git
+cd SQL-Client-and-Accountant-App
+```
 
 
