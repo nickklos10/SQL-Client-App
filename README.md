@@ -58,7 +58,7 @@ Both applications share the same underlying databases but serve distinct user ro
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/SQL-Client-and-Accountant-App.git
+git clone https://github.com/nickklos10/SQL-Client-App.git
 cd SQL-Client-App
 ```
 
