@@ -59,7 +59,7 @@ Both applications share the same underlying databases but serve distinct user ro
 
 ```bash
 git clone https://github.com/yourusername/SQL-Client-and-Accountant-App.git
-cd SQL-Client-and-Accountant-App
+cd SQL-Client-App
 ```
 
 
